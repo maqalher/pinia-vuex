@@ -1,0 +1,18 @@
+npm i axios
+
+crear archivo _redirects en public
+    /* /index.hmtl 200
+
+    idica que todas las rutas se van a redirigir a index.html
+
+composables = hooks
+
+pinia 
+    npm i pinia
+
+    en main.js 
+    import { createPinia } from "pinia";
+    const pinia = createPinia();
+    app.use(pinia);
+
+    crear en src/store
